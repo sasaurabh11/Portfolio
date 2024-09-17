@@ -85,10 +85,7 @@ function Contact() {
               <h3 className="text-4xl text-accent">Let's work together</h3>
 
               <p className="text-white/60">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero
-                perspiciatis quae, maiores doloremque impedit consectetur nisi.
-                Quisquam rem cum, nemo deleniti quam vero obcaecati culpa
-                doloribus beatae, consequatur est! Saepe.
+                Let's work together to turn your idea into a reality. Send us a message. We will get back to you as soon as possible.
               </p>
 
               {/* input */}
