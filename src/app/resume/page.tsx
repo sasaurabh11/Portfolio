@@ -5,7 +5,7 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si"
 
 const about = {
   title : "About me",
-  description : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam ipsa, quo tempore cum sint repudiandae labore corrupti sed, aut, architecto maxime nemo? Animi, aperiam explicabo alias illum obcaecati praesentium amet! In officiis labore alias qui est ipsum veniam rerum accusantium.",
+  description: `Hii! I'm Saurabh, a third-year Computer Science student at IIIT Vadodara - ICD. currently navigating the world of BTech, my true passion lies in crafting sleek digital experiences. I've immersed myself in Software Development, Web Development, and Competitive Programming and I've honed my skills in frontend magic with HTML, CSS, JAVASCRIPT , Tailwind, React and Next.js. On the backend, I dance with Node js, Express js, Flask and MongoDB. With over 600+ DSA problems under my belt, solving complex problems is what keeps me going. I have done a Software Development Intern at Connexa, where I focus on full-stack development using the MERN stack. In addition to that, I have expertise in Next.js, Python Flask, and Java. Join me on this journey as I turn ideas into reality`,
 
   info : [
     {
@@ -17,16 +17,24 @@ const about = {
       fieldValue : "+91 6393722861"
     },
     {
-      fieldName : "Email",
-      fieldValue : "sesaurabh8052@gmail.com"
-    },
-    {
       fieldName : "Nationality",
       fieldValue : "Indian"
     },
     {
+      fieldName : "Email",
+      fieldValue : "sesaurabh8052@gmail.com"
+    },
+    {
       fieldName : "Languages",
       fieldValue : "English, Hindi"
+    },
+    {
+      fieldName : "Address",
+      fieldValue : "Jaunpur, Uttar Pradesh, India - 222165"
+    },
+    {
+      fieldName : "Freelance",
+      fieldValue : "Available"
     }
   ]
 }
@@ -34,45 +42,20 @@ const about = {
 const experience = {
   icon : '/assests/resume/badge.svg',
   title : "My Experience",
-  description : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam ipsa, quo tempore cum sint repudiandae labore corrupti sed, aut, architecto maxime nemo? Animi, aperiam explicabo alias illum obcaecati praesentium amet! In officiis labore alias qui est ipsum veniam rerum accusantium.",
+  description : "I have over 2 years of experience working with the MERN stack and 1 year specializing in Next.js, focusing on building efficient and scalable web applications. During my internship at Connexa, I contributed to the development of full-stack solutions. Additionally, I have a strong foundation in Data Structures and Algorithms, having spent 2 years solving 600+ problems across multiple platforms, continuously refining my problem-solving skills.",
   items : [
     {
-      position : "Frontend Developer",
-      company : "Google",
-      duration : "2019 - 2021",
+      position : "Software Developer Internship",
+      company : "Connexa",
+      duration : "June 2024 - August 2024",
     },
-    {
-      position : "Backend Developer",
-      company : "Facebook",
-      duration : "2017 - 2019",
-    },
-    {
-      position : "Backend Developer",
-      company : "Facebook",
-      duration : "2017 - 2019",
-    },
-    {
-      position : "Backend Developer",
-      company : "Facebook",
-      duration : "2017 - 2019",
-    },
-    {
-      position : "Backend Developer",
-      company : "Facebook",
-      duration : "2017 - 2019",
-    },
-    {
-      position : "Backend Developer",
-      company : "Facebook",
-      duration : "2017 - 2019",
-    }
   ]
 }
 
 const education = {
   icon : "/assests/resume/cap.svg",
   title : "My Education",
-  description : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam ipsa, quo tempore cum sint repudiandae labore corrupti sed, aut, architecto maxime nemo? Animi, aperiam explicabo alias illum obcaecati praesentium amet! In officiis labore alias qui est ipsum veniam rerum accusantium.",
+  description : "I am currently persuing my B.Tech degree from IIIT Vadodara - ICD.",
   items : [
     {
       degree : "B.Tech in Computer Science",
@@ -89,7 +72,7 @@ const education = {
 
 const skills = {
   title : "My skills",
-  description : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam ipsa, quo tempore cum sint repudiandae labore corrupti sed, aut, architecto maxime nemo? Animi, aperiam explicabo alias illum obcaecati praesentium amet! In officiis labore alias qui est ipsum veniam rerum accusantium.",
+  description : "I've cultivated a strong foundation in Software Development, Web Development, and Competitive Programming. My expertise shines on the frontend, where I craft responsive and engaging interfaces using HTML, CSS, JavaScript, Tailwind, React, and Next.js. On the backend, I build robust and scalable solutions with Node.js, Express.js, Flask, and MongoDB.",
   skillList : [
     {
       icon : <FaHtml5 />,

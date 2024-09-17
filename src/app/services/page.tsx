@@ -8,27 +8,35 @@ const services = [
     num: "01",
     title: "Web Development",
     description:
-      "I can build a website from scratch with the latest technologies and frameworks.",
+      "From sleek user interfaces to robust backend solutions, I specialize in creating modern, responsive, and dynamic websites using cutting-edge technologies like React, Next.js, and Tailwind CSS.",
     href: "",
   },
   {
     num: "02",
-    title: "Mobile Development",
+    title: "Software Development",
     description:
-      "I can build a mobile app from scratch with the latest technologies and frameworks.",
+      "With expertise in full-stack software development, I can build custom software solutions tailored to your needs. Whether it's a desktop application, a REST API, or a scalable microservice architecture.",
     href: "",
   },
   {
     num: "03",
-    title: "UI/UX Design",
+    title: "Flask Development",
     description:
-      "I can design a user interface and user experience for your product.",
+      "Leveraging the power of Python and Flask, I can design and deploy efficient backend systems that integrate seamlessly with your frontend.",
     href: "",
   },
   {
     num: "04",
+    title: "Competitive Programming & Problem Solving",
+    description:
+      "With over 600+ Data Structures and Algorithms problems solved, I have honed my problem-solving skills in competitive programming. I can help you prepare for coding competitions, improve algorithmic thinking, and solve complex challenges efficiently.",
+    href: "",
+  },
+  {
+    num: "05",
     title: "SEO Optimization",
-    description: "I can optimize your website for search engines.",
+    description:
+      "In today’s competitive landscape, visibility is key. I can optimize your website to rank higher on search engines, driving organic traffic and boosting your online presence through effective SEO strategies.",
     href: "",
   },
 ];
