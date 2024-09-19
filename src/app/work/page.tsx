@@ -14,7 +14,7 @@ const projects = [
       "ChatSpark is a real-time chat platform built with the MERN stack, Socket.io, and Material UI. It offers seamless instant messaging, multimedia sharing, and real-time online status updates. The application is designed to handle high traffic, providing a smooth and responsive user experience through a reliable and scalable communication system.",
     href: "https://chat-spark-app.vercel.app/",
     github: "https://github.com/sasaurabh11/ChatSpark-Real-Time-Chat-App",
-    imageUrl: "/assests/chatsparkpreview.mp4",
+    imageUrl: "https://res.cloudinary.com/dz41q2wez/video/upload/v1726757542/fwng9hur4zyqgz0fwdw6.mp4",
   },
   {
     num: "02",
@@ -23,7 +23,7 @@ const projects = [
       "SnapSizzle is a dynamic snap application built with Next.js, offering user-to-user messaging with text and photos. It features media sharing for seamless snap exchanges and real-time notifications to keep users updated on new messages and snaps. The app is designed for efficient performance with server-side rendering, providing an engaging and responsive user experience.",
     href: "https://snap-sizzle.vercel.app/",
     github: "https://github.com/sasaurabh11/SnapSizzle",
-    imageUrl: "/assests/snapsizzlepreview.mp4",
+    imageUrl: "https://res.cloudinary.com/dz41q2wez/video/upload/v1726757933/zsa6rooi3sgosbjv7hpg.mp4",
   },
   {
     num: "03",
