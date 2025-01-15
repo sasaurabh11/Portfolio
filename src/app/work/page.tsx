@@ -34,6 +34,16 @@ const projects = [
     github: "https://github.com/sasaurabh11/ComapanyDetails",
     imageUrl: "/assests/company-directory.png",
   },
+  {
+    num: "04",
+    title: "Role-Based Access Control",
+    description:
+      "A secure and intuitive platform for managing users, roles, and permissions with dynamic access control.",
+      "longDescription": "Role-Based Access Control (RBAC) Application is a robust platform designed to streamline user and role management while enhancing security and operational efficiency. Built with React.js, Redux, and Axios for the frontend, and optionally powered by Node.js and Express.js for backend API simulation, this application enables seamless CRUD operations on users, roles, and permissions. Featuring JWT-based authentication, it ensures secure sessions and precise access control. With its intuitive UI, administrators can dynamically assign roles, manage permissions, and simulate API calls, making it an essential tool for scalable and flexible access management systems.",
+    href: "https://role-based-access-control-three.vercel.app/",
+    github: "https://github.com/sasaurabh11/ComapanyDetails",
+    imageUrl: "https://res.cloudinary.com/dz41q2wez/image/upload/v1736971899/Screenshot_2025-01-16_013934_im7roa.png",
+  },
 ];
 
 function Work() {
