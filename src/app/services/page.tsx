@@ -29,7 +29,7 @@ const services = [
     num: "04",
     title: "Competitive Programming & Problem Solving",
     description:
-      "With over 600+ Data Structures and Algorithms problems solved, I have honed my problem-solving skills in competitive programming. I can help you prepare for coding competitions, improve algorithmic thinking, and solve complex challenges efficiently.",
+      "With over 1500+ Data Structures and Algorithms problems solved, I have honed my problem-solving skills in competitive programming. I can help you prepare for coding competitions, improve algorithmic thinking, and solve complex challenges efficiently.",
     href: "",
   },
   {

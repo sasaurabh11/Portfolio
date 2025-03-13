@@ -20,7 +20,7 @@ function Home() {
               Competitive Programming and I've honed my skills in frontend magic
               with HTML, CSS, JAVASCRIPT , Tailwind, React and Next.js. On the
               backend, I dance with Node js, Express js, Flask and MongoDB. With
-              over 600+ DSA problems under my belt, solving complex problems is
+              over 1500+ DSA problems under my belt, solving complex problems is
               what keeps me going. Join me on this journey as I turn ideas into
               reality, one line of code at a time!
             </p>

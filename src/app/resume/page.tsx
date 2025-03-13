@@ -5,7 +5,7 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si"
 
 const about = {
   title : "About me",
-  description: `Hii! I'm Saurabh, a third-year Computer Science student at IIIT Vadodara - ICD. currently navigating the world of BTech, my true passion lies in crafting sleek digital experiences. I've immersed myself in Software Development, Web Development, and Competitive Programming and I've honed my skills in frontend magic with HTML, CSS, JAVASCRIPT , Tailwind, React and Next.js. On the backend, I dance with Node js, Express js, Flask and MongoDB. With over 600+ DSA problems under my belt, solving complex problems is what keeps me going. I have done a Software Development Intern at Connexa, where I focus on full-stack development using the MERN stack. In addition to that, I have expertise in Next.js, Python Flask, and Java. Join me on this journey as I turn ideas into reality`,
+  description: `Hii! I'm Saurabh, a third-year Computer Science student at IIIT Vadodara - ICD. currently navigating the world of BTech, my true passion lies in crafting sleek digital experiences. I've immersed myself in Software Development, Web Development, and Competitive Programming and I've honed my skills in frontend magic with HTML, CSS, JAVASCRIPT , Tailwind, React and Next.js. On the backend, I dance with Node js, Express js, Flask and MongoDB. With over 1500+ DSA problems under my belt, solving complex problems is what keeps me going. I have done a Software Development Intern at Connexa, where I focus on full-stack development using the MERN stack. In addition to that, I have expertise in Next.js and Python Flask. Join me on this journey as I turn ideas into reality`,
 
   info : [
     {
@@ -42,7 +42,7 @@ const about = {
 const experience = {
   icon : '/assests/resume/badge.svg',
   title : "My Experience",
-  description : "I have over 2 years of experience working with the MERN stack and 1 year specializing in Next.js, focusing on building efficient and scalable web applications. During my internship at Connexa, I contributed to the development of full-stack solutions. Additionally, I have a strong foundation in Data Structures and Algorithms, having spent 2 years solving 600+ problems across multiple platforms, continuously refining my problem-solving skills.",
+  description : "I have over 2 years of experience working with the MERN stack and 1 year specializing in Next.js, focusing on building efficient and scalable web applications. During my internship at Connexa, I contributed to the development of full-stack solutions. Additionally, I have a strong foundation in Data Structures and Algorithms, having spent 2 years solving 1500+ problems across multiple platforms, continuously refining my problem-solving skills.",
   items : [
     {
       position : "Software Developer Internship",
